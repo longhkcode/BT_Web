@@ -1,0 +1,15 @@
+A:\C#_Basic\Mine_Sweeper\Mine_Sweeper\bin\Debug\net9.0\Mine_Sweeper.exe
+A:\C#_Basic\Mine_Sweeper\Mine_Sweeper\bin\Debug\net9.0\Mine_Sweeper.deps.json
+A:\C#_Basic\Mine_Sweeper\Mine_Sweeper\bin\Debug\net9.0\Mine_Sweeper.runtimeconfig.json
+A:\C#_Basic\Mine_Sweeper\Mine_Sweeper\bin\Debug\net9.0\Mine_Sweeper.dll
+A:\C#_Basic\Mine_Sweeper\Mine_Sweeper\bin\Debug\net9.0\Mine_Sweeper.pdb
+A:\C#_Basic\Mine_Sweeper\Mine_Sweeper\obj\Debug\net9.0\Mine_Sweeper.GeneratedMSBuildEditorConfig.editorconfig
+A:\C#_Basic\Mine_Sweeper\Mine_Sweeper\obj\Debug\net9.0\Mine_Sweeper.AssemblyInfoInputs.cache
+A:\C#_Basic\Mine_Sweeper\Mine_Sweeper\obj\Debug\net9.0\Mine_Sweeper.AssemblyInfo.cs
+A:\C#_Basic\Mine_Sweeper\Mine_Sweeper\obj\Debug\net9.0\Mine_Sweeper.csproj.CoreCompileInputs.cache
+A:\C#_Basic\Mine_Sweeper\Mine_Sweeper\obj\Debug\net9.0\Mine_Sweeper.sourcelink.json
+A:\C#_Basic\Mine_Sweeper\Mine_Sweeper\obj\Debug\net9.0\Mine_Sweeper.dll
+A:\C#_Basic\Mine_Sweeper\Mine_Sweeper\obj\Debug\net9.0\refint\Mine_Sweeper.dll
+A:\C#_Basic\Mine_Sweeper\Mine_Sweeper\obj\Debug\net9.0\Mine_Sweeper.pdb
+A:\C#_Basic\Mine_Sweeper\Mine_Sweeper\obj\Debug\net9.0\Mine_Sweeper.genruntimeconfig.cache
+A:\C#_Basic\Mine_Sweeper\Mine_Sweeper\obj\Debug\net9.0\ref\Mine_Sweeper.dll
