@@ -1,0 +1,7 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"A:/C#_Basic/ChickenEgg/Content/background.png","A:/C#_Basic/ChickenEgg/Content/bin/DesktopGL/Content/background.xnb","TextureProcessor","Texture2DContent",1496189,4227157,0.3294339
+"A:/C#_Basic/ChickenEgg/Content/basket.png","A:/C#_Basic/ChickenEgg/Content/bin/DesktopGL/Content/basket.xnb","TextureProcessor","Texture2DContent",117528,997549,0.064428
+"A:/C#_Basic/ChickenEgg/Content/chicken.png","A:/C#_Basic/ChickenEgg/Content/bin/DesktopGL/Content/chicken.xnb","TextureProcessor","Texture2DContent",70360,998869,0.0480862
+"A:/C#_Basic/ChickenEgg/Content/egg_break.png","A:/C#_Basic/ChickenEgg/Content/bin/DesktopGL/Content/egg_break.xnb","TextureProcessor","Texture2DContent",55107,998869,0.0397392
+"A:/C#_Basic/ChickenEgg/Content/egg.png","A:/C#_Basic/ChickenEgg/Content/bin/DesktopGL/Content/egg.xnb","TextureProcessor","Texture2DContent",29959,998869,0.054366
+"A:/C#_Basic/ChickenEgg/Content/myFont.spritefont","A:/C#_Basic/ChickenEgg/Content/bin/DesktopGL/Content/myFont.xnb","FontDescriptionProcessor","SpriteFontContent",500,70681,0.1471821
