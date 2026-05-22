@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SourceFile>A:/C#_Basic/RanSanMoi/Content/map1.tmx</SourceFile>
+  <SourceTime>2026-05-18T09:33:58.4392667+07:00</SourceTime>
+  <DestFile>A:/C#_Basic/RanSanMoi/Content/bin/DesktopGL/Content/map1.xnb</DestFile>
+  <DestTime>2026-05-21T16:37:28.1619732+07:00</DestTime>
+  <Importer>TiledMapImporter</Importer>
+  <ImporterTime>2024-06-25T06:09:56+07:00</ImporterTime>
+  <Processor>TiledMapProcessor</Processor>
+  <ProcessorTime>2024-06-25T06:09:56+07:00</ProcessorTime>
+  <Dependencies>
+    <string>A:\C#_Basic\RanSanMoi\Content\Terrain 32.png</string>
+  </Dependencies>
+  <BuildAsset>
+    <string>A:/C#_Basic/RanSanMoi/Content/bin/DesktopGL/Content/Terrain 32_0.xnb</string>
+  </BuildAsset>
+  <BuildOutput />
+</PipelineBuildEvent>

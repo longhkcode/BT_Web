@@ -1,0 +1,6 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"A:/C#_Basic/RanSanMoi/Content/body_snake.png","A:/C#_Basic/RanSanMoi/Content/bin/DesktopGL/Content/body_snake.xnb","TextureProcessor","Texture2DContent",2046,4181,0.1528191
+"A:/C#_Basic/RanSanMoi/Content/food.png","A:/C#_Basic/RanSanMoi/Content/bin/DesktopGL/Content/food.xnb","TextureProcessor","Texture2DContent",2203,4181,0.0114258
+"A:/C#_Basic/RanSanMoi/Content/head_snake.png","A:/C#_Basic/RanSanMoi/Content/bin/DesktopGL/Content/head_snake.xnb","TextureProcessor","Texture2DContent",1875,4181,0.0123681
+"A:/C#_Basic/RanSanMoi/Content/map1.tmx","A:/C#_Basic/RanSanMoi/Content/bin/DesktopGL/Content/map1.xnb","TiledMapProcessor","TiledMapContentItem",3214,1517,0.1087045
+"A:/C#_Basic/RanSanMoi/Content/Terrain 32.png","A:/C#_Basic/RanSanMoi/Content/bin/DesktopGL/Content/Terrain 32.xnb","TextureProcessor","Texture2DContent",2382468,6291541,0.1734728
