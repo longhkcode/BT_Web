@@ -1,0 +1,15 @@
+A:\C#_Basic\BT_WEB\UCLN\bin\Debug\net9.0\UCLN.exe
+A:\C#_Basic\BT_WEB\UCLN\bin\Debug\net9.0\UCLN.deps.json
+A:\C#_Basic\BT_WEB\UCLN\bin\Debug\net9.0\UCLN.runtimeconfig.json
+A:\C#_Basic\BT_WEB\UCLN\bin\Debug\net9.0\UCLN.dll
+A:\C#_Basic\BT_WEB\UCLN\bin\Debug\net9.0\UCLN.pdb
+A:\C#_Basic\BT_WEB\UCLN\obj\Debug\net9.0\UCLN.GeneratedMSBuildEditorConfig.editorconfig
+A:\C#_Basic\BT_WEB\UCLN\obj\Debug\net9.0\UCLN.AssemblyInfoInputs.cache
+A:\C#_Basic\BT_WEB\UCLN\obj\Debug\net9.0\UCLN.AssemblyInfo.cs
+A:\C#_Basic\BT_WEB\UCLN\obj\Debug\net9.0\UCLN.csproj.CoreCompileInputs.cache
+A:\C#_Basic\BT_WEB\UCLN\obj\Debug\net9.0\UCLN.sourcelink.json
+A:\C#_Basic\BT_WEB\UCLN\obj\Debug\net9.0\UCLN.dll
+A:\C#_Basic\BT_WEB\UCLN\obj\Debug\net9.0\refint\UCLN.dll
+A:\C#_Basic\BT_WEB\UCLN\obj\Debug\net9.0\UCLN.pdb
+A:\C#_Basic\BT_WEB\UCLN\obj\Debug\net9.0\UCLN.genruntimeconfig.cache
+A:\C#_Basic\BT_WEB\UCLN\obj\Debug\net9.0\ref\UCLN.dll
