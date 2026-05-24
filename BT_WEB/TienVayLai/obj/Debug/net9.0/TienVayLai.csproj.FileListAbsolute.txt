@@ -1,0 +1,15 @@
+A:\C#_Basic\BT_WEB\TienVayLai\bin\Debug\net9.0\TienVayLai.exe
+A:\C#_Basic\BT_WEB\TienVayLai\bin\Debug\net9.0\TienVayLai.deps.json
+A:\C#_Basic\BT_WEB\TienVayLai\bin\Debug\net9.0\TienVayLai.runtimeconfig.json
+A:\C#_Basic\BT_WEB\TienVayLai\bin\Debug\net9.0\TienVayLai.dll
+A:\C#_Basic\BT_WEB\TienVayLai\bin\Debug\net9.0\TienVayLai.pdb
+A:\C#_Basic\BT_WEB\TienVayLai\obj\Debug\net9.0\TienVayLai.GeneratedMSBuildEditorConfig.editorconfig
+A:\C#_Basic\BT_WEB\TienVayLai\obj\Debug\net9.0\TienVayLai.AssemblyInfoInputs.cache
+A:\C#_Basic\BT_WEB\TienVayLai\obj\Debug\net9.0\TienVayLai.AssemblyInfo.cs
+A:\C#_Basic\BT_WEB\TienVayLai\obj\Debug\net9.0\TienVayLai.csproj.CoreCompileInputs.cache
+A:\C#_Basic\BT_WEB\TienVayLai\obj\Debug\net9.0\TienVayLai.sourcelink.json
+A:\C#_Basic\BT_WEB\TienVayLai\obj\Debug\net9.0\TienVayLai.dll
+A:\C#_Basic\BT_WEB\TienVayLai\obj\Debug\net9.0\refint\TienVayLai.dll
+A:\C#_Basic\BT_WEB\TienVayLai\obj\Debug\net9.0\TienVayLai.pdb
+A:\C#_Basic\BT_WEB\TienVayLai\obj\Debug\net9.0\TienVayLai.genruntimeconfig.cache
+A:\C#_Basic\BT_WEB\TienVayLai\obj\Debug\net9.0\ref\TienVayLai.dll
