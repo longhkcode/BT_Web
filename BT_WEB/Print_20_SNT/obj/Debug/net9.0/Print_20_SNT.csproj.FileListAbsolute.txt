@@ -1,0 +1,15 @@
+A:\C#_Basic\BT_WEB\Print_20_SNT\bin\Debug\net9.0\Print_20_SNT.exe
+A:\C#_Basic\BT_WEB\Print_20_SNT\bin\Debug\net9.0\Print_20_SNT.deps.json
+A:\C#_Basic\BT_WEB\Print_20_SNT\bin\Debug\net9.0\Print_20_SNT.runtimeconfig.json
+A:\C#_Basic\BT_WEB\Print_20_SNT\bin\Debug\net9.0\Print_20_SNT.dll
+A:\C#_Basic\BT_WEB\Print_20_SNT\bin\Debug\net9.0\Print_20_SNT.pdb
+A:\C#_Basic\BT_WEB\Print_20_SNT\obj\Debug\net9.0\Print_20_SNT.GeneratedMSBuildEditorConfig.editorconfig
+A:\C#_Basic\BT_WEB\Print_20_SNT\obj\Debug\net9.0\Print_20_SNT.AssemblyInfoInputs.cache
+A:\C#_Basic\BT_WEB\Print_20_SNT\obj\Debug\net9.0\Print_20_SNT.AssemblyInfo.cs
+A:\C#_Basic\BT_WEB\Print_20_SNT\obj\Debug\net9.0\Print_20_SNT.csproj.CoreCompileInputs.cache
+A:\C#_Basic\BT_WEB\Print_20_SNT\obj\Debug\net9.0\Print_20_SNT.sourcelink.json
+A:\C#_Basic\BT_WEB\Print_20_SNT\obj\Debug\net9.0\Print_20_SNT.dll
+A:\C#_Basic\BT_WEB\Print_20_SNT\obj\Debug\net9.0\refint\Print_20_SNT.dll
+A:\C#_Basic\BT_WEB\Print_20_SNT\obj\Debug\net9.0\Print_20_SNT.pdb
+A:\C#_Basic\BT_WEB\Print_20_SNT\obj\Debug\net9.0\Print_20_SNT.genruntimeconfig.cache
+A:\C#_Basic\BT_WEB\Print_20_SNT\obj\Debug\net9.0\ref\Print_20_SNT.dll
