@@ -1,0 +1,15 @@
+A:\C#_Basic\BT_WEB\Check_NamNhuan\bin\Debug\net9.0\Check_NamNhuan.exe
+A:\C#_Basic\BT_WEB\Check_NamNhuan\bin\Debug\net9.0\Check_NamNhuan.deps.json
+A:\C#_Basic\BT_WEB\Check_NamNhuan\bin\Debug\net9.0\Check_NamNhuan.runtimeconfig.json
+A:\C#_Basic\BT_WEB\Check_NamNhuan\bin\Debug\net9.0\Check_NamNhuan.dll
+A:\C#_Basic\BT_WEB\Check_NamNhuan\bin\Debug\net9.0\Check_NamNhuan.pdb
+A:\C#_Basic\BT_WEB\Check_NamNhuan\obj\Debug\net9.0\Check_NamNhuan.GeneratedMSBuildEditorConfig.editorconfig
+A:\C#_Basic\BT_WEB\Check_NamNhuan\obj\Debug\net9.0\Check_NamNhuan.AssemblyInfoInputs.cache
+A:\C#_Basic\BT_WEB\Check_NamNhuan\obj\Debug\net9.0\Check_NamNhuan.AssemblyInfo.cs
+A:\C#_Basic\BT_WEB\Check_NamNhuan\obj\Debug\net9.0\Check_NamNhuan.csproj.CoreCompileInputs.cache
+A:\C#_Basic\BT_WEB\Check_NamNhuan\obj\Debug\net9.0\Check_NamNhuan.sourcelink.json
+A:\C#_Basic\BT_WEB\Check_NamNhuan\obj\Debug\net9.0\Check_NamNhuan.dll
+A:\C#_Basic\BT_WEB\Check_NamNhuan\obj\Debug\net9.0\refint\Check_NamNhuan.dll
+A:\C#_Basic\BT_WEB\Check_NamNhuan\obj\Debug\net9.0\Check_NamNhuan.pdb
+A:\C#_Basic\BT_WEB\Check_NamNhuan\obj\Debug\net9.0\Check_NamNhuan.genruntimeconfig.cache
+A:\C#_Basic\BT_WEB\Check_NamNhuan\obj\Debug\net9.0\ref\Check_NamNhuan.dll
