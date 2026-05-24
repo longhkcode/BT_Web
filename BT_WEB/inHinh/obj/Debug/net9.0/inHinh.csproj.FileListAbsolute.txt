@@ -1,0 +1,15 @@
+A:\C#_Basic\BT_WEB\inHinh\bin\Debug\net9.0\inHinh.exe
+A:\C#_Basic\BT_WEB\inHinh\bin\Debug\net9.0\inHinh.deps.json
+A:\C#_Basic\BT_WEB\inHinh\bin\Debug\net9.0\inHinh.runtimeconfig.json
+A:\C#_Basic\BT_WEB\inHinh\bin\Debug\net9.0\inHinh.dll
+A:\C#_Basic\BT_WEB\inHinh\bin\Debug\net9.0\inHinh.pdb
+A:\C#_Basic\BT_WEB\inHinh\obj\Debug\net9.0\inHinh.GeneratedMSBuildEditorConfig.editorconfig
+A:\C#_Basic\BT_WEB\inHinh\obj\Debug\net9.0\inHinh.AssemblyInfoInputs.cache
+A:\C#_Basic\BT_WEB\inHinh\obj\Debug\net9.0\inHinh.AssemblyInfo.cs
+A:\C#_Basic\BT_WEB\inHinh\obj\Debug\net9.0\inHinh.csproj.CoreCompileInputs.cache
+A:\C#_Basic\BT_WEB\inHinh\obj\Debug\net9.0\inHinh.sourcelink.json
+A:\C#_Basic\BT_WEB\inHinh\obj\Debug\net9.0\inHinh.dll
+A:\C#_Basic\BT_WEB\inHinh\obj\Debug\net9.0\refint\inHinh.dll
+A:\C#_Basic\BT_WEB\inHinh\obj\Debug\net9.0\inHinh.pdb
+A:\C#_Basic\BT_WEB\inHinh\obj\Debug\net9.0\inHinh.genruntimeconfig.cache
+A:\C#_Basic\BT_WEB\inHinh\obj\Debug\net9.0\ref\inHinh.dll
