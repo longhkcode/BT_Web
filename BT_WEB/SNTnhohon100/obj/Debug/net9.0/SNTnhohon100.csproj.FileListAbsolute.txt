@@ -1,0 +1,15 @@
+A:\C#_Basic\BT_WEB\SNTnhohon100\bin\Debug\net9.0\SNTnhohon100.exe
+A:\C#_Basic\BT_WEB\SNTnhohon100\bin\Debug\net9.0\SNTnhohon100.deps.json
+A:\C#_Basic\BT_WEB\SNTnhohon100\bin\Debug\net9.0\SNTnhohon100.runtimeconfig.json
+A:\C#_Basic\BT_WEB\SNTnhohon100\bin\Debug\net9.0\SNTnhohon100.dll
+A:\C#_Basic\BT_WEB\SNTnhohon100\bin\Debug\net9.0\SNTnhohon100.pdb
+A:\C#_Basic\BT_WEB\SNTnhohon100\obj\Debug\net9.0\SNTnhohon100.GeneratedMSBuildEditorConfig.editorconfig
+A:\C#_Basic\BT_WEB\SNTnhohon100\obj\Debug\net9.0\SNTnhohon100.AssemblyInfoInputs.cache
+A:\C#_Basic\BT_WEB\SNTnhohon100\obj\Debug\net9.0\SNTnhohon100.AssemblyInfo.cs
+A:\C#_Basic\BT_WEB\SNTnhohon100\obj\Debug\net9.0\SNTnhohon100.csproj.CoreCompileInputs.cache
+A:\C#_Basic\BT_WEB\SNTnhohon100\obj\Debug\net9.0\SNTnhohon100.sourcelink.json
+A:\C#_Basic\BT_WEB\SNTnhohon100\obj\Debug\net9.0\SNTnhohon100.dll
+A:\C#_Basic\BT_WEB\SNTnhohon100\obj\Debug\net9.0\refint\SNTnhohon100.dll
+A:\C#_Basic\BT_WEB\SNTnhohon100\obj\Debug\net9.0\SNTnhohon100.pdb
+A:\C#_Basic\BT_WEB\SNTnhohon100\obj\Debug\net9.0\SNTnhohon100.genruntimeconfig.cache
+A:\C#_Basic\BT_WEB\SNTnhohon100\obj\Debug\net9.0\ref\SNTnhohon100.dll
