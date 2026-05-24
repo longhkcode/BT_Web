@@ -1,0 +1,15 @@
+A:\C#_Basic\BT_WEB\min_arr\bin\Debug\net9.0\min_arr.exe
+A:\C#_Basic\BT_WEB\min_arr\bin\Debug\net9.0\min_arr.deps.json
+A:\C#_Basic\BT_WEB\min_arr\bin\Debug\net9.0\min_arr.runtimeconfig.json
+A:\C#_Basic\BT_WEB\min_arr\bin\Debug\net9.0\min_arr.dll
+A:\C#_Basic\BT_WEB\min_arr\bin\Debug\net9.0\min_arr.pdb
+A:\C#_Basic\BT_WEB\min_arr\obj\Debug\net9.0\min_arr.GeneratedMSBuildEditorConfig.editorconfig
+A:\C#_Basic\BT_WEB\min_arr\obj\Debug\net9.0\min_arr.AssemblyInfoInputs.cache
+A:\C#_Basic\BT_WEB\min_arr\obj\Debug\net9.0\min_arr.AssemblyInfo.cs
+A:\C#_Basic\BT_WEB\min_arr\obj\Debug\net9.0\min_arr.csproj.CoreCompileInputs.cache
+A:\C#_Basic\BT_WEB\min_arr\obj\Debug\net9.0\min_arr.sourcelink.json
+A:\C#_Basic\BT_WEB\min_arr\obj\Debug\net9.0\min_arr.dll
+A:\C#_Basic\BT_WEB\min_arr\obj\Debug\net9.0\refint\min_arr.dll
+A:\C#_Basic\BT_WEB\min_arr\obj\Debug\net9.0\min_arr.pdb
+A:\C#_Basic\BT_WEB\min_arr\obj\Debug\net9.0\min_arr.genruntimeconfig.cache
+A:\C#_Basic\BT_WEB\min_arr\obj\Debug\net9.0\ref\min_arr.dll
