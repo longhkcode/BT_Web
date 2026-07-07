@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RanSanMoi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+db49918c155986827b47057162b386d7ef2cce11")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3a3f52368fbeb95432484977df5f502f00bb29f0")]
 [assembly: System.Reflection.AssemblyProductAttribute("RanSanMoi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RanSanMoi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
